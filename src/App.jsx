@@ -1,3 +1,4 @@
+
 import {
   Box,
   Button,
@@ -20,7 +21,7 @@ function App() {
 
   async function getTokenBalance() {
     const config = {
-      apiKey: '<-- COPY-PASTE YOUR ALCHEMY API KEY HERE -->',
+      apiKey: 'upqAHSVAizskibKpFv7YmDmJOd2Ckps0',
       network: Network.ETH_MAINNET,
     };
 
